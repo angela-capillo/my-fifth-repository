@@ -12,3 +12,4 @@ Some keywords that are always good to remember are:
 >This is a bit random
 
 ![Photo of a cat named Neo](https://placecats.com/neo/300/200)
+![Photo of a cat named Bella](./150.jpg)
