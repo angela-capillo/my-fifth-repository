@@ -8,5 +8,7 @@ Some keywords that are always good to remember are:
 - commit
 - hash
 
-I cannot really read what's on the screen :/
-This is a bit random
+>I cannot really read what's on the screen :/
+>This is a bit random
+
+![Photo of a cat named Neo](https://placecats.com/neo/300/200)
